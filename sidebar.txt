@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pua:home|Door43 (pua)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pua|d43-pua repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pua/archive/master.zip|d43-pua.zip]]
+
+**Recent Changes**
+{{changes>ns = pua}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pua|Ethnologue data]]
+
